@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+:tada: :heart: :+1: :Sunny:
+1. waibiwaibi
+2. waibibabo
+* something
+  * wawawa!
+  * wowowo!
